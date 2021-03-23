@@ -1,0 +1,8 @@
+
+xAccel: Telefon düz bir yüzeyde dururken 0, telefon sağa eğildiğinde pozitif
+(yani, sol tarafı kaldırılmış) ve telefon sola eğildiğinde negatif (yani, sağ tarafı kaldırılmış)
+yükseltilmiş).
+
+yAccel: Telefon düz bir yüzey üzerinde dururken 0, alt kısmı kaldırıldığında pozitif ve üst kısmı yükseltildiğinde negatif.
+
+zAccel: 9,8'e eşittir (cihaz çalışmıyorken dünyanın saniyede metre cinsinden yerçekimi ekran yukarı bakacak şekilde yere paralel, yere dik olduğunda 0 ve +9.8 aşağı bakarken. Değer, yerçekimiyle veya yerçekimine karşı hızlanarak da etkilenebilir.
