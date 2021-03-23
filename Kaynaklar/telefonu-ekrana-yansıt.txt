@@ -1,0 +1,4 @@
+
+1-vysor programı
+
+2- scrcpy.exe programı
